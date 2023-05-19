@@ -35,5 +35,5 @@ app.post('/enviar', (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Servidor corriendo en el puerot: ${port}`);
+  console.log(`Servidor corriendo en el puerto: ${port}`);
 });
