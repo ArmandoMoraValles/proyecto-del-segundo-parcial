@@ -18,3 +18,5 @@ como se muestra en la linea las paginas html que se encuentran en esa carpeta
 La estructura del proyecto es muy simple tenemos el archivo index.js que es el punto de partida del proyecto, una carpeta llamada pages con todas las paginas con el html y ademas una carpeta de styles para colocar dentro las hojas de estilo css para esas paginas
 
 En el archivo index.js solo se maneja un endpoint llamado /enviar que se ejecuta al mandar el formulario alojado en contactanos
+
+Para correr el servidor se utilizo nodemon para estar constantemente recargando el servidor segun detecte nuevos cambios, esta herrmienta no es muy util en entorno de produccion pero para el desarrollo es muy comodo
