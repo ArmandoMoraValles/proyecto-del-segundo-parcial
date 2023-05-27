@@ -4,6 +4,8 @@ const fs = require('fs');
 const path = require('path');
 const app = express();
 const port = 8080;
+const data = require('./CV.json')
+
 console.clear();
 
 //Renderizar archivos estaticos
@@ -32,6 +34,10 @@ app.post('/enviar', (req, res) => {
   });
 
   res.send('<script>alert("¡Gracias por enviar el formulario de contacto!"); window.location.href = "/contactanos.html";</script>');
+});
+
+app.get('/a33427', (req, res) => {
+  res.json(data);
 });
 
 app.listen(port, () => {

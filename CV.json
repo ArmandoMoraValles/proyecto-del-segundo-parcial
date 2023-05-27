@@ -1,0 +1,47 @@
+{
+  "Nombre": "Armando Mora Valles",
+  "Fecha de Nacimiento": "13/08/2000",
+  "Correo electrónico": "armandomoravalles@gmail.com",
+  "Teléfono": "6392314295",
+  "LinkedIn": "https://www.linkedin.com/in/armando-mora-valles/",
+  "GitHub": "https://github.com/ArmandoMoraValles",
+  "Objetivo": "Busco seguir desarrollando mis habilidades como programador especializado en el desarrollo back-end, trabajando en proyectos desafiantes y enriquecedores que me permitan seguir creciendo profesionalmente.",
+  "Experiencia Profesional": [
+    {
+      "Empresa": "Codanai",
+      "Puesto": "Desarrollador Back-End",
+      "Fecha Inicio": "07/01/2021",
+      "Fecha Fin": "23/10/2021"
+    },
+    {
+      "Empresa": "Arvolution",
+      "Puesto": "Programador Jr",
+      "Fecha Inicio": "13/01/2023",
+      "Fecha Fin": "Actualidad"
+    }
+  ],
+  "Preparación Académica": [
+    {
+      "Institución": "Universidad Autonoma de Chihuahua",
+      "Título": "Licenciatura",
+      "Fecha Inicio": "13/08/2019",
+      "Fecha Fin": "Actualidad"
+    }
+  ],
+  "Idiomas": [
+    {
+      "Idioma": "Español",
+      "Nivel": "Nativo"
+    },
+    {
+      "Idioma": "Inglés",
+      "Nivel": "B1"
+    }
+  ],
+  "Habilidades": [
+    "Desarrollo de aplicaciones web con JavaScript y TypeScript",
+    "Conocimiento avanzado en Node.js y conocimientos de React",
+    "Diseño e implementación de bases de datos relacionales y no relacionales",
+    "Trabajo en equipo"
+  ]
+}
